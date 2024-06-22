@@ -1,4 +1,4 @@
-# wubaiwan的博客 :link: https://github.io/wubaiwan-github.io 
+# wubaiwan的博客 :link: https://wubaiwan000.github.io/wubaiwan-github.io 
 ### :page_facing_up: [0](https://wubaiwan000.github.io/wubaiwan-github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
